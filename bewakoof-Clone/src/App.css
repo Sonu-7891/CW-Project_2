@@ -1,0 +1,11 @@
+.slick-slider {
+  width: 100%;
+  overflow: hidden;
+}
+.notFound{
+    margin: auto;
+    font-size: 30px;
+}
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
